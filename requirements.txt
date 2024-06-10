@@ -1,0 +1,14 @@
+pylint
+pytest
+black
+bs4
+requests
+wikipedia
+ipython
+click
+fastapi
+openai
+python-dotenv
+pydantic
+uvicorn[standard]
+streamlit
